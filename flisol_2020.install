@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the flisol_2020 module.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function flisol_2020_install() {
+  // Set front page to "flisol-2020".
+  \Drupal::configFactory()
+    ->getEditable('system.site')
+    ->set('page.front', '/flisol-2020')
+    ->save(TRUE);
+}
