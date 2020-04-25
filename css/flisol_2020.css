@@ -1,0 +1,16 @@
+.flisol-2020 {
+  width:75%;
+  margin:0 auto;
+}
+.speaker-information {
+  clear:both;
+  font-size:125%;
+}
+.speaker-information .logo-gcoop {
+  width:187px;
+  float:left;
+  margin-right:100px
+}
+.speaker-information dl dd {
+  font-weight:bold;
+}

@@ -1,0 +1,5 @@
+flisol_2020:
+  version: VERSION
+  css:
+    theme:
+      css/flisol_2020.css: {}
