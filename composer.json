@@ -1,0 +1,22 @@
+{
+  "name": "FLISoL 2020",
+  "type": "drupal-module",
+  "description": "Demo for FLISoL 2020",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/gcoop-libre/drupal-module-flisol-2020",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/gcoop-libre/drupal-module-flisol-2020/issues",
+    "source": "https://github.com/gcoop-libre/drupal-module-flisol-2020/tree/master"
+  },
+  "require": { },
+  "authors": [
+    {
+      "name": "Cristian G. Segarra (tucho)",
+      "email": "cristian@segarra.com.ar",
+      "homepage": "https://www.drupal.org/u/tucho",
+      "role": "Maintainer"
+    }
+  ]
+}
