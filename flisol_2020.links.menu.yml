@@ -1,0 +1,7 @@
+# Config form
+flisol_2020.config_form:
+  title: 'FLISoL 2020'
+  route_name: flisol_2020.config_form
+  parent: system.admin
+  description: 'Configure the FLISoL 2020 information.'
+  weight: -10
