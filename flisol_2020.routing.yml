@@ -1,0 +1,7 @@
+flisol_2020:
+  path: '/flisol-2020'
+  defaults:
+    _controller: '\Drupal\flisol_2020\Controller\Flisol2020Controller::page'
+    _title_callback: '\Drupal\flisol_2020\Controller\Flisol2020Controller::title'
+  requirements:
+    _access: 'TRUE'
