@@ -1,0 +1,4 @@
+configure flisol_2020:
+  title: 'Configure FLISoL 2020'
+  description: 'Set the information for FLISoL 2020.'
+  restrict access: true

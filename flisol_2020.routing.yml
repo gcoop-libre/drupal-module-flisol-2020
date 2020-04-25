@@ -1,3 +1,10 @@
+flisol_2020.config_form:
+  path: '/admin/config/flisol-2020'
+  defaults:
+    _form: '\Drupal\flisol_2020\Form\ConfigForm'
+    _title: 'FLISoL 2020'
+  requirements:
+    _permission: 'configure flisol_2020 speaker'
 flisol_2020:
   path: '/flisol-2020'
   defaults:
