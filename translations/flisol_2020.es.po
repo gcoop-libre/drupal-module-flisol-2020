@@ -1,0 +1,77 @@
+# Spanish translation of FLISoL 2020 (8.x-1.0)
+# Copyright 2020 by gcoop <info@gcoop.coop>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FLISoL 2020 (8.x-1.0)\n"
+"POT-Creation-Date: 2020-04-25 10:00-0300\n"
+"PO-Revision-Date: 2020-04-25 10:00-0300\n"
+"Last-Translator: Cristian G. Segarra <cristian@segarra.com.ar>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "16º Festival Latinoamericano de Instalación de Software Libre"
+msgstr "16º Festival Latinoamericano de Instalación de Software Libre"
+
+msgid "gcoop Cooperativa de Software Libre"
+msgstr "gcoop Cooperativa de Software Libre"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "Demo FLISoL 2020"
+msgstr "Demo FLISoL 2020"
+
+msgid "FLISoL 2020"
+msgstr "FLISoL 2020"
+
+msgid "Demo for FLISoL 2020"
+msgstr "Demo para FLISoL 2020"
+
+msgid "Configure the FLISoL 2020 information."
+msgstr "Configurar la información de FLISoL 2020."
+
+msgid "Configure FLISoL 2020"
+msgstr "Configurar FLISoL 2020"
+
+msgid "Set the information for FLISoL 2020."
+msgstr "Establecer la información para FLISoL 2020."
+
+msgid "FLISoL 2020 config"
+msgstr "Configuración FLISoL 2020"
+
+msgid "Speaker information"
+msgstr "Información del orador"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "GitHub profile"
+msgstr "Perfil en GitHub"
+
+msgid "Drupal profile"
+msgstr "Perfil en Drupal"
+
+msgid "16º Festival Latinoamericano de Instalación de Software Libre el 25 de abril 2020"
+msgstr "16º Festival Latinoamericano de Instalación de Software Libre el 25 de abril 2020"
+
+msgid "FLISoL 2020 information"
+msgstr "Información FLISoL 2020"
+
+msgid "The value is not a valid email address."
+msgstr "El valor no es una dirección de correo electrónico válido."
+
+msgid "Speaker"
+msgstr "Orador"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "Drupal"
+msgstr "Drupal"
