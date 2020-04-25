@@ -1,0 +1,7 @@
+name: 'FLISoL 2020'
+type: module
+description: 'Demo for FLISoL 2020'
+core: 8.x
+package: 'FLISoL 2020'
+'interface translation project': flisol_2020
+'interface translation server pattern': modules/flisol_2020/translations/%project.%language.po
