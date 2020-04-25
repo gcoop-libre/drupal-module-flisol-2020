@@ -22,3 +22,19 @@ function flisol_2020_help($route_name, RouteMatchInterface $route_match) {
     default:
   }
 }
+
+/**
+ * Implements hook_theme().
+ */
+function flisol_2020_theme() {
+  return [
+    'flisol_2020' => [
+      'render element' => 'content',
+      'file' => 'flisol_2020.page.inc',
+      'template' => 'flisol-2020',
+      'variables' => [
+        'speaker' => [],
+      ],
+    ],
+  ];
+}

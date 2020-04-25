@@ -1,0 +1,39 @@
+{#
+/**
+ * @file flisol-2020.html.twig
+ * Default theme implementation to present FLISoL 2020 page data.
+ *
+ * This template is used when viewing the FLISoL 2020 page.
+ *
+ *
+ * Available variables:
+ * - speaker: The contact information of the speaker.
+ * - logos: An array of logos.
+ * - logos.flisol: The logo of FLISoL 2020.
+ * - logos.gcoop: The lofo of gcoop.
+ *
+ * @see template_preprocess_flisol_2020()
+ *
+ * @ingroup themeable
+ */
+#}
+<div class="flisol-2020">
+  {% if speaker %}
+  <div class="speaker-information">
+    <div class="logo-gcoop">
+      {{ logo_gcoop }}
+    </div>
+
+    <h2>{{ speaker.name }}</h2>
+
+    <dl>
+      <dt>{{ 'Email' | t }}</dt>
+      <dd>{{ speaker.email }}</dd>
+      <dt>{{ 'GitHub' | t }}</dt>
+      <dd>{{ speaker.github_url }}</dd>
+      <dt>{{ 'Drupal' | t }}</dt>
+      <dd>{{ speaker.drupal_url }}</dd>
+    </dl>
+  </div>
+  {% endif %}
+</div>
